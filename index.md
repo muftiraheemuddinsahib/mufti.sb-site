@@ -1,3 +1,5 @@
+---
+layout: base.njk
+title: صفحۂ اوّل
+---
 # بسم اللہ الرحمن الرحیم
-
-The website is successfully set up. The foundation is ready.
